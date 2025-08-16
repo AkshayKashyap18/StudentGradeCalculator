@@ -35,3 +35,13 @@ A simple Java console application to manage student grades, calculate averages, 
 5. Follow the prompts in the command line.
 
 ## Example Usage
+Enter number of subjects: 3
+Enter name for Subject 1: Math
+Enter name for Subject 2: Science
+Enter name for Subject 3: English
+Enter number of students: 2
+Enter student name: Alice
+Enter marks for Math (0-100): 87
+Enter marks for Science (0-100): 92
+Enter marks for English (0-100): 76
+...
